@@ -9,6 +9,6 @@ makaco10/makaco10 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-este es un prueba
+este es un prueba y ahora como se ve
 
 para ver que pasa con esto.
